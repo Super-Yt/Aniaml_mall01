@@ -1,1 +1,1 @@
-# Aniaml_mall01
+# Aniaml_mall01 本地版本
